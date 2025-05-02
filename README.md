@@ -1,5 +1,5 @@
 # Gemini Blog Generator
-
+![Image](https://github.com/user-attachments/assets/0d217c9f-bec3-4f6f-9d6d-67a77149a46e)
 ## Overview
 Gemini Blog Generator is a web application that leverages Google Gemini's powerful language model to help you generate blog content, outlines, catchy titles, and summaries. The app features an interactive, Streamlit-based interface for a seamless user experience.
 
