@@ -9,7 +9,7 @@ env_path = os.path.join(os.path.dirname(__file__), '..', '..', '.env')
 load_dotenv(env_path)
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 if not GEMINI_API_KEY:
-    GEMINI_API_KEY = "AIzaSyDeUr2NKIh3J1elan_EZBxgeNQC-hTiF_E"
+    GEMINI_API_KEY = "YOUR_API_KEY"
 
 def gemini_generate(prompt, model="gemini-2.0-flash"):
     try:
